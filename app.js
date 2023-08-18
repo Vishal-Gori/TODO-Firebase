@@ -1,11 +1,11 @@
 const firebaseConfig = {
-    apiKey: "AIzaSyC_f9nBNjxWaHTfqcNjAlrQZpAN0GkT8T8",
-    authDomain: "crud-b9439.firebaseapp.com",
-    databaseURL: "https://crud-b9439-default-rtdb.asia-southeast1.firebasedatabase.app",
-    projectId: "crud-b9439",
-    storageBucket: "crud-b9439.appspot.com",
-    messagingSenderId: "277582958367",
-    appId: "1:277582958367:web:402fda252ffb058a336a2a"
+  apiKey: "YOUR_API_KEY",
+  authDomain: "YOUR_AUTH_DOMAIN",
+  databaseURL: "YOUR_DATABASE_URL",
+  projectId: "YOUR_PROJECT_ID",
+  storageBucket: "YOUR_STORAGE_BUCKET",
+  messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
+  appId: "YOUR_APP_ID"
   };
   
   firebase.initializeApp(firebaseConfig);
